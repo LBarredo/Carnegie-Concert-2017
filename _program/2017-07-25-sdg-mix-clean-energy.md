@@ -4,6 +4,6 @@ layout: default
 order: 6
 published: false
 title: SDG Mix - No Poverty
-artist: 'Berry Sakharof, Micha Shitrit, & Ronen Shapira'
+artist: Amnon Wolman & Ronen Shapira
 ---
 A question choreographed by Gloria Benedikt and Mimmo Miccolis, in relation to the 17 Sustainable Development Goals.
