@@ -4,5 +4,5 @@ layout: default
 order: 1
 published: false
 title: Welcome
-artist: Jeffrey Sachs
+artist: 'Professor Jeffrey Sachs, Director of SDSN'
 ---
