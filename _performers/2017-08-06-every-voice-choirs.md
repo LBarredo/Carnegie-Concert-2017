@@ -2,7 +2,7 @@
 date: '2017-08-06 14:04 -0400'
 layout: artist
 order: 11
-published: false
+published: true
 title: Every Voice Choirs
 focus: Vocals
 ---
