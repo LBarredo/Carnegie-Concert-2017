@@ -4,6 +4,6 @@ layout: default
 order: 12
 published: false
 title: SDG Mix - Life Below Water
-artist: Ronen Shapira & Revital Hachamoff
+artist: Ronen Shapira
 ---
 A question choreographed by Gloria Benedikt and Mimmo Miccolis, in relation to the 17 Sustainable Development Goals.
