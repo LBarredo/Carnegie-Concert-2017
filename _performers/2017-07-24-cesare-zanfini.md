@@ -1,7 +1,7 @@
 ---
 date: '2017-07-24 15:23 -0400'
 layout: artist
-published: false
+published: true
 title: Cesare Zanfini
 focus: Violin
 order: 10
