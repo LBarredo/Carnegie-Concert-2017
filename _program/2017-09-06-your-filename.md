@@ -3,8 +3,6 @@ date: '2017-09-06 08:57 -0400'
 layout: default
 order: 0
 published: false
-title: ''
+title: Bach Solos
 ---
-Bach Solos
-
 Our special guest cellist will perform selected Bach solos for cello. 
