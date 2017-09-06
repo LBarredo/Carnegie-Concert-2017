@@ -1,7 +1,7 @@
 ---
 date: '2017-08-02 14:07 -0400'
 layout: default
-order: 13
+order: 16
 published: false
 title: 'Can artists support transformations to sustainability? '
 artist: 'Professor Dr. Pavel Kabat, Director General and CEO, IIASA'
@@ -24,4 +24,4 @@ There is strong evidence that out of the brain’s two processing systems — th
 
 To successfully address complex global challenges, we also need to align our beliefs and values with the reality of our changing world. This deep, often challenging, internal work must be supported through individual and collective processes that embrace subjectivity, while being accountable to scientific facts. Constructive art is uniquely positioned to do that and thus to support sustainability transformations.
 
-To learn more, visit www.iiasa.ac.at/arts. 
+To learn more, visit www.iiasa.ac.at/arts.
