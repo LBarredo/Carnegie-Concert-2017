@@ -1,7 +1,7 @@
 ---
 date: '2017-07-25 16:18 -0400'
 layout: default
-order: 15
+order: 18
 published: false
 title: Contextual Matters
 artist: Gloria Benedikt & Merlijn Twaalfhoven
