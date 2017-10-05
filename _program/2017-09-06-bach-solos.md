@@ -7,4 +7,4 @@ title: Cameo appearance by Yo-Yo Ma
 ---
 Our special guest cellist will perform selected works (solos).
 
-[Video](https://www.youtube.com/watch?v=eyOi-YJ2Nq0&list=PLprXkx-4Du8LdfgRFaO1_ldJE0nvgHUcC&index=8)
+[Video](https://www.youtube.com/watch?v=uHOosCxeEYo&index=2&list=PLprXkx-4Du8LdfgRFaO1_ldJE0nvgHUcC)
