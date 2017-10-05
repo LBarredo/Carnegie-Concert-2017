@@ -25,3 +25,5 @@ There is strong evidence that out of the brain’s two processing systems — th
 To successfully address complex global challenges, we also need to align our beliefs and values with the reality of our changing world. This deep, often challenging, internal work must be supported through individual and collective processes that embrace subjectivity, while being accountable to scientific facts. Constructive art is uniquely positioned to do that and thus to support sustainability transformations.
 
 To learn more, visit www.iiasa.ac.at/arts.
+
+[Video](https://www.youtube.com/watch?v=IN_85taNSqw&index=11&list=PLprXkx-4Du8LdfgRFaO1_ldJE0nvgHUcC)
