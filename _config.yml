@@ -31,13 +31,9 @@ excerpt_separator: <!--more-->
 email: info@unsdsn.org
 twitter_username: UNSDSN
 
-# Github Settings
-github: "sdsna/Carnegie-Concert-2017"
 
 # Jekyll Settings
 theme: minima
-gems:
-- jekyll-feed
 exclude:
 - Gemfile
 - Gemfile.lock
@@ -47,8 +43,3 @@ exclude:
 sass:
     sass_dir: _sass
     style: compressed
-
-# Jekyll Livereload Settings
-port: 4000
-host: 0.0.0.0
-livereload: true
