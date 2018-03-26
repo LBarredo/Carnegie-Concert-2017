@@ -2,6 +2,8 @@
 title: Program
 order: 2
 ---
+Program to be announced soon, stay tuned for updates!
+
 [comment]: <> (Do NOT edit.)
 {% assign program = site.program | sort: 'order' %}
 <ul class="performers">
