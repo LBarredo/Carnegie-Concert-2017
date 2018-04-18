@@ -4,5 +4,5 @@ layout: artist
 order: 6
 published: false
 title: Yelena Dudochkin
-photo: Soprano
+focus: Soprano
 ---
