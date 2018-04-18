@@ -2,7 +2,7 @@
 date: '2017-03-28 12:11 -0500'
 layout: artist
 published: true
-title: Revital Hachamoff
+title: 'Revital Hachamoff, Piano, Artistic & Musical Director'
 focus: Piano
 photo: performers_revital_hachamoff.jpg
 order: 1
