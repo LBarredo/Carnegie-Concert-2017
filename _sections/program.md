@@ -3,7 +3,7 @@ title: Program
 order: 2
 published: true
 ---
-Tentative Program 
+**Tentative Program **
 
 - Ronen Shapira, Changing Reality #1: Spring
 - Vivaldi, Spring
@@ -19,8 +19,7 @@ Tentative Program
 - Yotam Ben Or, The young generation
 - Ronen Shapira, Changing Reality #5: Strings of Peace
 
-
-Program Notes
+**Program Notes**
 
 The first half of the concert will include two mixes on the theme of Changing Reality, adjacent to the two canonical pieces they echo. Vivaldi’s Spring, that represents the love of Nature and its protection, highlights our concern over climate change, while Gershwin’s Rhapsody in Blue, that recalls the challenges faced by immigrants and displaced people worldwide, represents concerns for social inclusion. The Bachianas Brazileras No. 5 by Heitor Villa-Lobos, which features the voices of lost tribes in the Amazon jungle, will be played in an arrangement made by the protégé of Villa-Lobos, Alfred Heller. This version is written for soprano, piano, and cello, and will be accompanied by video art about the Amazon and its people. The third part of Changing Reality, called “Love and Despair,” will engage most of the musicians participating in the concert in
 a wild Bolero, a kind of prayer that surges as the piece progresses.
