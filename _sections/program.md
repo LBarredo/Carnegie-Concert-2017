@@ -14,10 +14,11 @@ Ronen Shapira, Changing Reality #3, Love and Despair
 
 _Intermission_
 
-- Ronen Shapira, Changing Reality #4
-- PDQ Bach, Blaues Gras Cantata
-- Yotam Ben Or, The young generation
-- Ronen Shapira, Changing Reality #5: Strings of Peace
+Ronen Shapira, Changing Reality #4
+PDQ Bach, Blaues Gras Cantata
+Yotam Ben Or, The young generation
+Ronen Shapira, Changing Reality #5: Strings of Peace
+
 
 
 [comment]: <> (Do NOT edit.)
