@@ -2,7 +2,7 @@
 date: '2017-03-28 12:11 -0500'
 layout: artist
 published: true
-title: Ehud Shapiro
+title: 'Ehud Shapiro, Bass-Baritone'
 focus: Narrator
 photo: performers_ehud_shapiro.jpg
 order: 9
