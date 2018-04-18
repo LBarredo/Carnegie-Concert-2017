@@ -2,7 +2,7 @@
 date: '2017-03-28 12:11 -0500'
 layout: artist
 published: true
-title: Gilad Hildesheim
+title: 'Gilad Hildesheim, Violin'
 focus: Violin
 photo: performers_gilad_hildesheim.jpg
 order: 2
