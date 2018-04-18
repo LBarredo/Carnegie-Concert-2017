@@ -2,7 +2,7 @@
 date: '2018-03-26 13:05 -0400'
 layout: artist
 order: 8
-published: false
+published: true
 title: Ronen Shapira
 focus: Ethnic Instruments
 photo: /media/shapira.jpg
