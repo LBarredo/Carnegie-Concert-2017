@@ -1,8 +1,23 @@
 ---
 title: Program
 order: 2
+published: true
 ---
-Program to be announced soon, stay tuned for updates!
+Tentative Program 
+
+Ronen Shapira, Changing Reality #1: Spring
+Vivaldi, Spring”
+Villa-Lobos, Bachianas Brasileiras No. 5
+Ronen Shapira, Changing Reality #2: Rhapsody in Blue
+Gershwin, Rhapsody in Blue
+Ronen Shapira, Changing Reality #3, Love and Despair
+
+_Intermission_
+
+Ronen Shapira, Changing Reality #4
+PDQ Bach, Blaues Gras Cantata
+Yotam Ben Or, The young generation
+Ronen Shapira, Changing Reality #5: Strings of Peace
 
 [comment]: <> (Do NOT edit.)
 {% assign program = site.program | sort: 'order' %}
