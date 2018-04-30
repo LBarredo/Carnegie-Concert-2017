@@ -5,7 +5,7 @@ order: 8
 published: false
 title: Netta Yerushalmy
 focus: Choreography and Dance
-photo: Netta%20Yerushalmy.JPG
+photo: NettaYerushalmy.JPG
 ---
 Netta Yerushalmy is a dancer and choreographer who works across genres and disciplines. She is currently working with composer Julia Wolfe and cellist Maya Beiser on “Spinning,” she contributed to artist Josiah McElheny’s project for the Madison Square Park Conservancy, she choreographed a ‪Red Hot Chili Peppers music video, and has collaborated on evenings of theory and performance at the Institute for Cultural Inquiry (Berlin). Yerushalmy is the recipient of many honors and awards, including a Guggenheim Fellowship, a 'Grant to Artists' from the Foundation for Contemporary Arts, a Jerome Robbins Bogliasco Fellowship, a NYFA Fellowship, and the Toulmin Fellowship for Women Leaders in Dance at NYU’s Center for Ballet. 
 
