@@ -5,6 +5,7 @@ order: 13
 published: false
 title: Yotam Ben-Or
 focus: Harmonica
+photo: Yoram%20Quartet.jpg
 ---
 Yotam Ben-Or is a NYC-based Israeli-Belgian harmonica player and composer. Ben-Or was born and raised in a small village called Nataf in the Jerusalem area. He started playing the harmonica at the age of 11, taught by his uncle.
 
