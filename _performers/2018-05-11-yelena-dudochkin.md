@@ -2,7 +2,7 @@
 date: '2018-05-11 09:08 -0400'
 layout: artist
 order: 15
-published: false
+published: true
 title: "Yelena\_Dudochkin"
 focus: Soprano
 photo: Lg1.jpg
