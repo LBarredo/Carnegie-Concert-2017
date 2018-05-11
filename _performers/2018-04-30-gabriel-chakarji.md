@@ -2,7 +2,7 @@
 date: '2018-04-30 14:44 -0400'
 layout: artist
 order: 70
-published: false
+published: true
 title: Gabriel Chakarji
 focus: 'Piano, Yoram Quartet'
 ---
