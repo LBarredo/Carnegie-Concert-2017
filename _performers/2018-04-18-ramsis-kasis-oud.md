@@ -2,7 +2,7 @@
 date: '2018-04-18 13:36 -0400'
 layout: artist
 order: 25
-published: false
+published: true
 title: Ramsis Kasis
 focus: Oud
 photo: DSC_0965.jpg
