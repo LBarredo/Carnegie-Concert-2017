@@ -1,0 +1,1 @@
+![Daniel Hass]({{site.baseurl}}/media/DanielHass.jpeg)
