@@ -2,7 +2,7 @@
 date: '2018-04-18 13:36 -0400'
 layout: artist
 order: 40
-published: false
+published: true
 title: Netta Yerushalmy
 focus: Choreography and Dance
 photo: NettaYerushalmy.JPG
