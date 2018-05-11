@@ -1,7 +1,7 @@
 ---
 date: '2018-05-11 09:08 -0400'
 layout: artist
-order: 5
+order: 15
 published: false
 title: "Yelena\_Dudochkin"
 focus: Soprano
