@@ -5,6 +5,7 @@ order: 5
 published: false
 title: "Yelena\_Dudochkin"
 focus: Soprano
+photo: Lg1.jpg
 ---
 Yelena Dudochkin, is a Ukrainian-American soprano known for her rich, expressive and warm
 voice. Her recent roles include Tatyana in Eugene Onegin, Violetta in La Traviata, Snow Maiden
