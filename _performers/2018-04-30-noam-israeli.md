@@ -1,7 +1,7 @@
 ---
 date: '2018-04-30 14:49 -0400'
 layout: artist
-order: 16
+order: 85
 published: false
 title: Noam Israeli
 focus: 'Drums, Yoram Quartet'
