@@ -2,7 +2,7 @@
 date: '2018-05-11 11:51 -0400'
 layout: artist
 order: 17
-published: false
+published: true
 title: Daniel Hass
 focus: Cello
 photo: DanielHass.jpeg
