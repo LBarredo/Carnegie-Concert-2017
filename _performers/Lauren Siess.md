@@ -1,7 +1,7 @@
 ---
 +Date: '2018-05-29 1:52 -0400'
 +Layout: Artist
-+Order: 20
++Order: 13
 +Published: True
 +Title: "Lauren Siess"
 +Focus: Viola
