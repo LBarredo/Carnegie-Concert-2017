@@ -1,11 +1,11 @@
--------
-Date: '2018-05-29 1:52 -0400'
-Layout: Artist
-Order: 20
-Published: True
-Title: "Lauren Siess"
-Focus: Viola
-Photo: viola.jpg
+---
++Date: '2018-05-29 1:52 -0400'
++Layout: Artist
++Order: 20
++Published: True
++Title: "Lauren Siess"
++Focus: Viola
++Photo: viola.jpg
 -------
 Lauren Siess began viola studies at age 11, after starting her musical studies on guitar and violin.  Lauren is currently an undergraduate violist at Juilliard as a student of Carol Rodland.  A native of Portland, Oregon, her former teachers include Brian Quincey, Helen Callus, and Paul Neubauer.  An alumni of Colburn Music Academy, Lauren was featured as soloist with the Colburn Academy Virtuosi Orchestra and Colburn Chamber Orchestra, and served as principal viola of both orchestras.  
 Lauren has been a member of the Perlman Music Program since 2012.  During summer of 2017, Lauren attended Banff Centre’s “Ensemble Evolution,” and “Chamber Music,” programs, where she studied contemporary chamber music works with ICE, JACK Quartet, Imani Winds and Miro Quartet.  Lauren will be attending the Yellow Barn Program during summer of 2018.  
