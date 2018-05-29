@@ -2,7 +2,7 @@
 date: '2018-05-29 10:00 -0400'
 layout: artist
 published: true
-order: 37
+order: 45
 title: Yonatan Ziv
 focus: Video Art
 photo: Yonatan Ziv.png
