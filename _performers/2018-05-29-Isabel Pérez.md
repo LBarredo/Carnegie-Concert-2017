@@ -4,7 +4,7 @@ layout: artist
 order: 15
 published: true
 title: Isabel Pérez Dobarro
-focus: pianist
+focus: Piano
 photo: 21273645_761680144011568_2638129967225189617_o (1) (1).jpg
 ---
 Isabel Pérez Dobarro has appeared in solo recitals and chamber music concerts in the US, Belgium, Spain, Portugal, Italy, and Russia including venues such as Carnegie Hall, Lincoln Center, Tchaikovsky Conservatory Moscow, and Sala Arturo Benedetti Michelangeli.  She was a prizewinner at the American Protegé International Piano and Strings Competition (2nd Prize), Grand Prize Virtuoso International Competition (3rd Prize), Ciutat de Berga International Competition (1st Prize) and the Cidade do Fundao Piano International Competition (1st Prize), as well as the recipient of the Jorge Bolet Distinguished Performer Award at the Stony Brook International Piano Festival. 
