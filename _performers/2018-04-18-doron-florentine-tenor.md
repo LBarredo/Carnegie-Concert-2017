@@ -5,7 +5,7 @@ order: 35
 published: true
 title: Doron Florentine
 focus: Tenor
-photo: Screen Shot 2018-05-29 at 10.39.38 PM 
+photo: Screen Shot 2018-05-29 at 10.39.38 PM.png 
 ---
 The Israeli tenor, Doron Florentin, completed his Bachelor of Music degree in harpsichord at the Jerusalem Academy of Music and Dance, where he had studied with David Shemer. Following his army service in the Outstanding Musicians Unit, he applied He took vocal studies at the Buchmann-Mehta School of Music's vocal department in Tel-Aviv, and about to finish his Bachelor of Music degree there. Recently he went to the Felix Mendelssohn Music Academy in Leipzig in a student exchange program. He is a recipient of AICF scholarship.
 
